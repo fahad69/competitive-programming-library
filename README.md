@@ -1,4 +1,4 @@
-# Competitive Programming Library
+# Competitive Programming Library...
 
 From OKNOTOK.
 
